@@ -1,0 +1,26 @@
+Useful commands:
+npm init 							#start up a node project
+npm install -g typescript
+npm install lite-server 				#biblioteca que procura um index.html na raíz e realiza testes utilizando qualquer biblioteca importada nesse componente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
